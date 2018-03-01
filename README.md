@@ -112,3 +112,12 @@ public static final String APP_KEY = "204f631d06000";
     }
 ```
 ![](https://github.com/kuangxiaoguo0123/OkhttpExample/blob/master/screenshot/%E8%AF%B7%E6%B1%82%E7%BB%93%E6%9E%9C.png)
+
+# Sample source code
+[https://github.com/kuangxiaoguo0123/OkhttpExample](https://github.com/kuangxiaoguo0123/OkhttpExample)
+
+# More information
+[http://blog.csdn.net/kuangxiaoguo0123/article/details/77461425](http://blog.csdn.net/kuangxiaoguo0123/article/details/77461425)
+
+
+
